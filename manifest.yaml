@@ -1,6 +1,7 @@
 ---
 applications:
 - name: cf-nodejs
+  command: node index.js
   memory: 512M
   instances: 1
   random-route: true
