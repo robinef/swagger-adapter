@@ -1,7 +1,7 @@
 {
   "name": "home-iot-api",
   "version": "1.0.0",
-  "description": "The API for the EatBacon IOT project",
+  "description": "The API for the EatBacon IOT project test",
   "main": "index.js",
   "scripts": {
 	"prestart": "npm install",
