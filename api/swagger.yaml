@@ -12,7 +12,7 @@ consumes:
 produces:
 - "application/json"
 paths:
-  /device:
+  /devices:
     get:
       tags:
       - "Device"
