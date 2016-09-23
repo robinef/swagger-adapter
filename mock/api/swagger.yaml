@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  description: "The API for the EatBacon IOT project test"
+  description: "The API for the EatBacon IOT project"
   version: "1.0.0"
   title: "home-iot-api"
 host: "cf-nodejs-tinglier-policy.cfapps.io"
